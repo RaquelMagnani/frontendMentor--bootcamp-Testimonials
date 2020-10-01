@@ -1,0 +1,10 @@
+.container{
+    margin: 100px;
+    display: flex;
+    
+}
+.div-tanya-img{
+    background-image:url("images/pattern-bg.svg") ;
+    background-repeat: no-repeat;
+}
+
