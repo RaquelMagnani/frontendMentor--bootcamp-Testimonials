@@ -1,10 +1,26 @@
-.container{
-    margin: 100px;
-    display: flex;
+.container {
+  margin: 100px;
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+}
+.div-tanya-img {
+  background-image: url('images/pattern-bg.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  min-width: 300px;
+  min-height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.img-Tanya {
+  width: 220px;
+}
+.img-aspas{
     
+    position: absolute;
+    height: 40px;
+    z-index:-1;
 }
-.div-tanya-img{
-    background-image:url("images/pattern-bg.svg") ;
-    background-repeat: no-repeat;
-}
-
