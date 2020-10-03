@@ -20,7 +20,23 @@
 }
 .img-aspas{
     
-    position: absolute;
-    height: 40px;
+    padding-left: 100px;
+    max-width: 50px;
     z-index:-1;
+    margin-bottom: -20px;
+    
+}
+.paragrafo{
+  color:#adaeb7
+}
+
+.img-curva{
+    padding-top: 30px;
+ width: 60vw;
+   
+}
+.container-paragrafo{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
 }
